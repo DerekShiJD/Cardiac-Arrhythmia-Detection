@@ -5,3 +5,4 @@ Python==3.6
 Keras==2.1.6  
 Tensorflow==1.12.0  
 h5py==2.8.0  
+wfdb==2.2.1  
